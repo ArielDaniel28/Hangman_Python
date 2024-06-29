@@ -1,8 +1,3 @@
-#################################################################
-# FILE : hangman.py
-# WRITER : Ariel Daniel , arieldaniel28 , 208500710
-# EXERCISE : intro2cse ex4 2022
-#################################################################
 import hangman_helper
 
 def update_word_pattern(word, pattern, letter):
